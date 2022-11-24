@@ -12,7 +12,7 @@ int main (){
 		  {
 		     fib = a1 + a2;
 		     s = a1 + a2;
-		     if (fib<n)
+		     if (fib<=n)
 		       {
 		        cout << fib << endl;
 		       }
