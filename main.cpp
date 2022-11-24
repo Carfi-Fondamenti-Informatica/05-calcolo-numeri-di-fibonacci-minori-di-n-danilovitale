@@ -3,7 +3,7 @@ using namespace std;
 int main (){
     int n = 0;
     cin >> n;
-      if (n >= 2)
+      if (n > 0)
 	   {
          int a1 = 1,a2 = 1;
 	      cout << a1 << endl<< a2 <<endl;
